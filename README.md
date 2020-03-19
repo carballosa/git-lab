@@ -1,4 +1,4 @@
-# git-labone
+# git-lab
 one
 two
 three
